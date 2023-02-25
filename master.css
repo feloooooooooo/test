@@ -1,0 +1,32 @@
+.fir{
+    position: relative;
+    background-image: url(getty_537311951_100178.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.sec{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.head {
+    color: white;
+    font-size: 50px;
+}
+p{
+    color:antiquewhite;
+    text-transform:uppercase ;
+}
+button{
+    margin: 8px;
+    padding: 9px;
+    border-radius: 5px;
+    border-color: white;
+}
+.but2{
+     background-color: rgba(0, 0, 0, 0);
+}
+ 
